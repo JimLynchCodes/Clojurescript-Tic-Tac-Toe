@@ -1,10 +1,10 @@
 # Jim Tac Toe
 
+A remake of timothy Pratley's tic-tac-toe ClojureScript/ Reagent tutorial.
+
 ## Live Demo
 
-...
-
-A remake of timothy Pratley's tic-tac-toe ClojureScript/ Reagent tutorial.
+https://jimtheman.github.io/Clojurescript-Tic-Tac-Toe/
 
 ## Overview
 
